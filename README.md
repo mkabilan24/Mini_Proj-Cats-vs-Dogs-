@@ -12,12 +12,13 @@ These are the python files which contain different models used to perform classi
 
 You can use the Cifar-10 dataset, the link is below!
 
-## Credits
+## Citation
 
-@misc{cifar-10,
-    author = {Will Cukierski},
-    title = {CIFAR-10 - Object Recognition in Images},
-    year = {2013},
-    howpublished = {\url{https://kaggle.com/competitions/cifar-10}},
-    note = {Kaggle}
+```bibtex
+@misc{cifar-10,  
+  author = {Will Cukierski},  
+  title = {CIFAR-10 - Object Recognition in Images},  
+  year = {2013},  
+  howpublished = {\url{https://kaggle.com/competitions/cifar-10}},  
+  note = {Kaggle}  
 }
