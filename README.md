@@ -10,7 +10,7 @@ These are the python files which contain different models used to perform classi
 4) Preferably better to run these on Google Colab as better CPU/GPU resources would mean better performance
 
 
-You can also try using the Cifar-10 dataset, the link is below!
+You can use the Cifar-10 dataset, the link is below!
 
 ## Credits
 
